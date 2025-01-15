@@ -1,3 +1,11 @@
+//
+//  ProfileView.swift
+//  Login
+//
+//  Created by Danilo Santos on 14/01/25.
+//
+
+
 import SwiftUI
 import FirebaseAuth
 
